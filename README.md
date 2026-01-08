@@ -1,33 +1,38 @@
 # Hi there, I'm Hamza Zubair 👋
+### Artificial Intelligence Undergraduate | C++ Programmer | AI Automation Enthusiast
+
 ---
 
 ## 💻 About Me
-🎓 BS Artificial Intelligence Student at **University Of Central Punjab**  
-💡 Passionate about **C++ Programming, AI Automation**  
-🔎 Strong in **Problem Solving, File Handling, and Automation Workflows**  
-🚀 Always eager to **learn, apply, and build impactful solutions**  
+🎓 **BS Artificial Intelligence** student at **University of Central Punjab**  
+💡 Deeply interested in **C++ programming** and **AI-driven automation**  
+🔎 Strong foundation in **problem solving, file handling, and logical thinking**  
+🚀 Motivated to transform academic concepts into **real-world, practical solutions**
 
-**🛠️ Tech Stack:**  
-C++ | Python | AI Automation (n8n) | File Handling  
+**🛠️ Tech Stack**  
+`C++` · `Python` · `AI Automation (n8n)` · `File Handling` · `Problem Solving`
 
 ---
 
-
 ## 🚀 Projects
-🔹 **Simple Study Planner (C++)** – A lightweight application to manage and organize study tasks efficiently  
-🔹 **Other Work:** Digital Logic Design ⚡, AI Automation 📊  
+🔹 **Simple Study Planner (C++)**  
+A lightweight console-based application designed to help students plan, organize, and manage their study tasks efficiently using structured programming concepts.
+
+🔹 **Other Work**  
+Digital Logic Design ⚡ · AI Automation 📊
 
 ---
 
 ## 📚 Education
-🎓 **BS Artificial Intelligence** – University of Central Punjab (2024 – Present)  
-📘 **ICS** – Punjab Group of Colleges (2022 – 2024)  
+🎓 **BS Artificial Intelligence**  
+University of Central Punjab *(2024 – Present)*  
+
+📘 **Intermediate in Computer Science (ICS)**  
+Punjab Group of Colleges *(2022 – 2024)*  
 
 ---
 
-
 ## 🌐 Connect with Me
-
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=zubairhamza921@gmail.com" target="_blank">
@@ -39,8 +44,6 @@ C++ | Python | AI Automation (n8n) | File Handling
   </a>
 </p>
 
-
-
 ---
 
-✨ *“Turning ideas into reality, one line of code at a time.”*
+✨ **“Focused on writing meaningful code today to build intelligent solutions for tomorrow.”**
