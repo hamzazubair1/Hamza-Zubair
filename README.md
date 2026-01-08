@@ -13,7 +13,7 @@ C++ | Python | AI Automation (n8n) | File Handling
 ---
 
 ## 🚀 Projects
-🔹 **Simple Study Planner (C++ / PF)** – A lightweight application to manage and organize study tasks efficiently  
+🔹 **Simple Study Planner (C++)** – A lightweight application to manage and organize study tasks efficiently  
 🔹 **Other Work:** Digital Logic Design ⚡, AI Automation 📊  
 
 ---
