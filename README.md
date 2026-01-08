@@ -1,5 +1,5 @@
 # Hi there, I'm Hamza Zubair 👋
-### Artificial Intelligence Undergraduate | C++ Programmer | AI Automation Enthusiast
+### Artificial Intelligence Undergraduate | C++ Programmer | AI Automation 
 
 ---
 
