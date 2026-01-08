@@ -11,6 +11,9 @@
 C++ | Python | AI Automation (n8n) | File Handling  
 
 ---
+## Languages
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadsaimatif-coder&layout=compact&theme=tokyonight" alt="Top Languages" />
+---
 
 ## 🚀 Projects
 🔹 **Simple Study Planner (C++)** – A lightweight application to manage and organize study tasks efficiently  
