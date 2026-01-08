@@ -23,11 +23,17 @@ C++ | Python | AI Automation (n8n) | File Handling
 📘 **ICS** – Punjab Group of Colleges (2022 – 2024)  
 
 ---
+
+
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/hamza-zubair-0457ba298/)
+<a href="https://www.linkedin.com/in/hamza-zubair-0457ba298/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+</a>
+<a href="mailto:zubairhamza921@gmail.com?subject=Hello&body=Hello%20Hamza" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30" height="30"/>
+</a>
 
-[![Email](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg)](mailto:zubairhamza921@gmail.com)
 
 ---
 
