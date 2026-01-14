@@ -45,5 +45,17 @@ Punjab Group of Colleges *(2022 – 2024)*
 </p>
 
 ---
+## GitHub Stats 
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shahrozimran&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
+
+    
+
+
+## GitHUB Activities
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahrozimran&theme=react-dark)
+
+  
 
 ✨ **“Focused on writing meaningful code today to build intelligent solutions for tomorrow.”**
