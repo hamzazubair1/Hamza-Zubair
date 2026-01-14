@@ -17,6 +17,7 @@
 ## 🚀 Projects
 🔹 **Simple Study Planner (C++)**  
 A lightweight console-based application designed to help students plan, organize, and manage their study tasks efficiently using structured programming concepts.
+
 🔹 **Multi-User Study Planner (C++)**
 A console-based Study Planner application developed in C++ that allows multiple users to manage their study tasks securely using a login and registration system. Each user has their own task file stored separately.
 
